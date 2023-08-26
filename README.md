@@ -1,5 +1,5 @@
 ## Aplicação Cartões com Quarkus e PostgreSQL
-Codificação em Java com Framework Quarkus para aplicação de Cartões de Crédito e Débito e mostrando como usar o Quarkus com PostgreSQL para criar uma API RESTful reativa, não bloqueante e assíncrona.
+Codificação em Java com Framework Quarkus para aplicação de Cartões de Crédito e Débito mostrando como usar o Quarkus com PostgreSQL para criar uma API RESTful reativa, não bloqueante e assíncrona.
 
 ## Características
 Reativo: Utiliza o modelo de programação reativa para lidar com solicitações HTTP e interações com o banco de dados.
