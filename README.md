@@ -19,9 +19,13 @@ PostgreSQL: Certifique-se de ter o PostgreSQL instalado e em execução. Crie um
 Configuração do Aplicativo: Atualize o arquivo application.properties com as informações corretas do banco de dados.
 
 quarkus.datasource.db-kind=postgresql
+
 quarkus.datasource.username=SEU_USUARIO
+
 quarkus.datasource.password=SUA_SENHA
+
 quarkus.datasource.jdbc.url=jdbc:postgresql://localhost:5432/cartoes_db
+
 quarkus.datasource.reactive.url=postgresql://localhost:5432/cartoes_db
 
 ## Executando a Aplicação
