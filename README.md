@@ -17,7 +17,7 @@ Uso de Flyway que é uma ferramenta de migração de banco de dados open source 
 
 PostgreSQL: Certifique-se de ter o PostgreSQL instalado e em execução. Crie um banco de dados chamado cartoes_db.
 
-Configuração do Aplicativo: Atualize o arquivo application.properties com as informações corretas do banco de dados.
+- Configuração do Aplicativo: Atualize o arquivo application.properties com as informações corretas do banco de dados.
 
 quarkus.datasource.db-kind=postgresql
 
