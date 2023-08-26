@@ -6,13 +6,14 @@ Reativo: Utiliza o modelo de programação reativa para lidar com solicitações
 Não bloqueante: Garante que a thread principal nunca seja bloqueada, permitindo um alto grau de escalabilidade.
 Assíncrono: Opera de forma assíncrona para melhorar o desempenho e a eficiência.
 PostgreSQL: Usa o PostgreSQL como banco de dados, aproveitando o cliente reativo do Vert.x.
+Uso de Flyway que é uma ferramenta de migração de banco de dados open source que ajuda a implementar migrações de banco de dados automatizadas.
 
 
 ## Pré-requisitos
 - Java 11+
 - Maven
 - PostgreSQL
-- Configuração
+- Flyway
 
 PostgreSQL: Certifique-se de ter o PostgreSQL instalado e em execução. Crie um banco de dados chamado cartoes_db.
 
