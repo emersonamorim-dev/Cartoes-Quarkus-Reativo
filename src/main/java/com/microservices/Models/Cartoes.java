@@ -8,7 +8,7 @@ public class Cartoes {
     private String validade;
     private String codigoSeguranca;
 
-    // Construtor que você precisa
+    // Construtor 
     public Cartoes(Long id, String nome, String numero, String validade, String codigoSeguranca) {
         this.id = id;
         this.nome = nome;
